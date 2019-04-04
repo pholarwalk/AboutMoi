@@ -1,0 +1,64 @@
+body {
+      margin-top: 50px;
+      text-align: center;
+      background: url("http://dash.ga.co/assets/jeff-bg.png") ;
+      background-size: cover;
+      background-position:normal;
+      color: white;
+      margin-right: 200px;
+      margin-left: 200px;
+    }
+    p {
+      margin-top: 50px;
+      font-weight: bolder;
+      font-family: monospace ;
+      color: white;
+      font-size: 30px;
+    }
+
+    input {
+      margin-top: 10px;
+      color: grey;
+      border-color: black;
+      padding: 10px;
+      font-size: 18px;
+      border-radius: 15px;
+
+    }
+    input:hover{
+      background-color: pink;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+      border-radius: 25px;
+      margin-left: 50px;
+    }
+    input[type="submit"]:hover{
+      background-color: blue;
+    }
+    input[type="submit"]:focus{
+      background-color: green;
+    }
+    .site:hover { 
+      color: pink;
+
+    }
+    .site:focus{
+      color: brown;
+    }
+    .pic{
+      border-radius: 25%;
+      width: 150px;
+    }
+    .hov {
+      color:white ;
+
+    }
+    .hov:hover {
+      color: blue ;
+    }
+    .tbody {
+      width: 100%;
+      max-width: 600px;
+    }
