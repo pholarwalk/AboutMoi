@@ -1,6 +1,3 @@
-# AboutMoi
-# short description about my self at the moment
-<!DOCTYPE html>
 <html>
 <head>
   <title>Joseph Oluwasegun Info</title>
